@@ -1,0 +1,19 @@
+/* Estilos para el encabezado h1 */
+h1 {
+    color: rgb(157, 0, 255);
+    font-size: 28px;
+  }
+  
+  /* Estilos para el encabezado h2 */
+  h2 {
+    color: rgb(128, 0, 0);
+    font-size: 24px;
+  }
+  
+  /* Estilos para el div */
+  .miDiv {
+    background-color: rgb(211, 211, 211);
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
